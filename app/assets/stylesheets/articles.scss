@@ -4,10 +4,16 @@
 #list {
   list-style: none;
   padding-top: 30px;
-  h2 {
-    color: #337ab7;
-  }
   a {
+    color: #337ab7;
     font-size: 35px;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #1d4f7b;
+    text-decoration: none;
+  }
+  p {
+    font-weight: lighter;
   }
 }

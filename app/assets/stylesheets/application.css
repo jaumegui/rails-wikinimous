@@ -18,8 +18,7 @@
   justify-content: space-between;
   background-color: #F8F8F8;
   padding: 20px 20px;
-  border-bottom: 2px solid grey;
-
+  border-bottom: 1px solid #efe7e7;
 }
 
 .container {
@@ -28,4 +27,14 @@
  padding-left: 15px;
  padding-right: 15px;
  width: 1170px;
+}
+
+.wrapper a {
+  color: #777;
+  text-decoration: none
+}
+
+.wrapper a:hover {
+  color: #4a4545;
+  text-decoration: none
 }
